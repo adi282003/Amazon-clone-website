@@ -2,6 +2,7 @@
 An ecommerce website 
 <BR>
 Author - ADITYA LAL
+<br>
 "Thank you for the opportunity. Our AmazonClone project is more than just a visual replica of Amazon; it's a meticulously crafted web application designed to deliver an immersive and user-friendly shopping experience. Let's dive into the details:
 
 1. Header Navigation:
